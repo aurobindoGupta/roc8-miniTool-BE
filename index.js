@@ -2,7 +2,7 @@ const express = require("express");
 const bodyParser = require("body-parser");
 var cors = require("cors");
 const OpenAI = require("openai");
-require("dotenv").config();
+// require("dotenv").config();
 
 const app = express();
 
